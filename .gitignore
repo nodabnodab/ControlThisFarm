@@ -1,0 +1,36 @@
+# Unity Generated Files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/MemoryCaptures/
+/Reports/
+/AssetStore-5.0/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.meta
+*.pidb.meta
+*.pdb.meta
+
+# Unity-specific Cache files
+*.unitypackage
+TempBinder/
+
+
+
+
+
